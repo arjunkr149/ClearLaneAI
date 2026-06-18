@@ -1,0 +1,8 @@
+flask==3.0.3
+flask-cors==4.0.1
+Pillow>=10.4.0
+numpy>=2.0.0
+ultralytics>=8.2.0
+easyocr>=1.7.1
+opencv-python-headless>=4.10.0.84
+gunicorn==21.2.0
