@@ -173,7 +173,7 @@ Analytics Dashboard + Violation Log
 ---
 
 ## 👥 Team
-**ClearLane AI** | GNIOT, Greater Noida
+**ClearLane AI** | Greater Noida
 Submitted for Flipkart Gridlock Hackathon 2.0 — Round 2
 
 ---
